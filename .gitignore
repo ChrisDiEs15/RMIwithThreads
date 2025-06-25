@@ -1,0 +1,30 @@
+
+# Compilados de Java
+*.class
+
+# Archivos de log
+*.log
+
+# Archivos de configuración de NetBeans (generados automáticamente)
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+nbactions.xml
+nb-configuration.xml
+
+# Archivos temporales o del sistema
+*.swp
+*.bak
+*.tmp
+*.orig
+*.rej
+.DS_Store
+Thumbs.db
+
+# Librerías descargadas (opcional, según cómo manejes dependencias)
+lib/
+
+# Archivos de salida de pruebas
+test-output/
