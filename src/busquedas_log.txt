@@ -1,0 +1,12 @@
+[2025-06-25 10:22:33] Tipo: Concurrente | Número: 10 | Resultado: -1 | Tiempo: 3 ms
+[2025-06-25 10:23:12] Tipo: Concurrente | Número: 45 | Resultado: 3 | Tiempo: 1 ms
+[2025-06-25 14:31:43] Tipo: Concurrente | Número: 23 | Resultado: -1 | Tiempo: 2 ms
+[2025-06-25 14:32:17] Tipo: Concurrente | Número: 914 | Resultado: 53 | Tiempo: 1 ms
+[2025-06-25 14:33:38] Tipo: Concurrente | Número: 32 | Resultado: 12 | Tiempo: 0 ms
+[2025-06-25 14:43:52] Tipo: Concurrente | Número: 333 | Resultado: 44 | Tiempo: 2 ms
+[2025-06-25 14:44:55] Tipo: Concurrente | Número: 333 | Resultado: 44 | Tiempo: 3 ms
+[2025-06-25 15:55:23] Tipo: Concurrente | Número: 333 | Resultado: 44 | Tiempo: 2 ms
+[2025-06-25 15:57:50] Tipo: Concurrente | Número: 45 | Resultado: 58 | Tiempo: 0 ms
+[2025-06-25 15:58:12] Tipo: Concurrente | Número: 0 | Resultado: -1 | Tiempo: 1 ms
+[2025-06-25 16:12:51] Tipo: Concurrente | Número: 123 | Resultado: -1 | Tiempo: 2 ms
+[2025-06-25 16:13:03] Tipo: Concurrente | Número: 4567 | Resultado: -1 | Tiempo: 1 ms
